@@ -1,6 +1,6 @@
 autom8able-mochajs-starter
 ==
-A MochaJS starter package
+A MochaJS starter package from https://autom8able.com
 --
 
 ## Installation
