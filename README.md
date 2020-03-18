@@ -7,7 +7,12 @@ A MochaJS starter package from https://autom8able.com
 
 ```
 git clone https://github.com/mitchallen/autom8able-mochajs-starter.git
+
+cd autom8able-mochajs-starter/
+
 npm install
+
+npm test
 ```
 
 * * *
