@@ -10,6 +10,6 @@
   "author": "Mitch Allen (mitchallen.com)",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^10.8.2"
+    "mocha": "^7.2.0"
   }
 }
